@@ -12,7 +12,7 @@
 
 费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK
 
-一、注册搬瓦工账号
+## 一、注册搬瓦工账号
 
 1.点击搬瓦工首页地址，点击右上角注册按钮。
 
@@ -26,7 +26,7 @@
 
 
 
-二、购买服务器
+## 二、购买服务器
 
 1.点击Services->Order New Service
 
@@ -65,7 +65,7 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2	LOS ANGELES	是	20GB	1024MB	102
 
 
 
-三、安装Shadowsocks服务端软件
+## 三、安装Shadowsocks服务端软件
 
 1.在My Services页面点击KiwiVM Control Panel按钮，进入服务器控制面板。
 
