@@ -10,7 +10,7 @@
 
 优势4: 比直接买SS账号B格略高 🙂
 
-费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK
+费用: 最低每月26元，本站还提供9.4折优惠码:BWH1ZBPVK
 
 ## 一、注册搬瓦工账号
 
@@ -32,9 +32,11 @@
 
 推荐选择第一个或者第二个套餐，这两个套餐对比如下。
 
-套餐名称	地理位置	是否是CN2线路	硬盘大小	内存大小	每月流量	价格
-SPECIAL 10G KVM PROMO V3 – LOS ANGELES – CN2	LOS ANGELES	是	10GB	512MB	500GB	29.99美元/年
-SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2	LOS ANGELES	是	20GB	1024MB	1024GB	4.99美元/月
+|套餐名称|地理位置|是否是CN2线路|硬盘大小|内存大小|每月流量|价格|
+-------| -------|------|------|------|------|------|
+SPECIAL 10G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|10GB|512MB|500GB|29.99美元/年（缺货）|
+SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
+
 注：CN2代表到中国大陆有专线连接，网速会比较有保障。
 
 3.点击对应套餐后面Order Now按钮
