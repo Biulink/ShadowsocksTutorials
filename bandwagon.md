@@ -14,23 +14,19 @@
 
 ## 一、注册搬瓦工账号
 
-1.点击搬瓦工首页地址，点击右上角注册按钮。
-
-
+1.点击[搬瓦工首页地址](https://bwh1.net/aff.php?aff=23103)，点击右上角注册按钮。
+![图片](/bandwagon/WechatIMG20.jpeg)
 
 2.填写注册信息（建议不要填写真实信息，毕竟翻墙有一些匿名性比较好），完成注册。
-
-
+![图片](/bandwagon/WechatIMG21.jpeg)
 
 3.登录进入搬瓦工
-
-
+![图片](/bandwagon/WechatIMG22.jpeg)
 
 ## 二、购买服务器
 
 1.点击Services->Order New Service
-
-
+![图片](/bandwagon/WechatIMG23.jpeg)
 
 2.选择合适的套餐
 
@@ -42,52 +38,39 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2	LOS ANGELES	是	20GB	1024MB	102
 注：CN2代表到中国大陆有专线连接，网速会比较有保障。
 
 3.点击对应套餐后面Order Now按钮
-
-
+![图片](/bandwagon/WechatIMG24.jpeg)
 
 4.直接点击Add To Cart按钮。
-
-
+![图片](/bandwagon/WechatIMG25.jpeg)
 
 5.输入优惠码：BWH1ZBPVK，点击Validate Code，然后点击Checkout，进入结账页面。
-
-
+![图片](/bandwagon/WechatIMG26.jpeg)
 
 6.确认好信息后，选择支付宝付款，勾选同意协议的选项，点击Complete Order，提交订单。
-
-
+![图片](/bandwagon/WechatIMG28.jpeg)
 
 7.点击Pay Now，进行支付。
-
-
+![图片](/bandwagon/WechatIMG29.jpeg)
 
 8.使用支付宝完成付款。完成付款后，稍等几分钟，然后回到搬瓦工主页，点击Services->My Services，查看已经购买的服务器。
-
-
+![图片](/bandwagon/WechatIMG30.jpeg)
 
 ## 三、安装Shadowsocks服务端软件
 
 1.在My Services页面点击KiwiVM Control Panel按钮，进入服务器控制面板。
-
-
+![图片](/bandwagon/WechatIMG32.jpeg)
 
 2.进入控制面板首页，记录下服务器IP地址，最后连接会使用该服务器IP。
-
-
+![图片](/bandwagon/WechatIMG33.jpeg)
 
 3.点击Shadowsocks Service选项
-
-
+![图片](/bandwagon/WechatIMG34.jpeg)
 
 4.点击Install Shadowsocks Server，等待几分钟，完成安装。
-
-
+![图片](/bandwagon/WechatIMG35.jpeg)
 
 5.待安装完成后，在会显示Shadowsocks账号信息：加密方式、端口和密码，加上前面获取的服务器IP地址，就可以在客户端登录了。
-
-
+![图片](/bandwagon/WechatIMG36.jpeg)
 
 6.参考本网站客户端连接教程，连接成功后，去Youtube测试网速。1080p毫无压力。
-
-
-
+![图片](/bandwagon/WechatIMG37.jpeg)
