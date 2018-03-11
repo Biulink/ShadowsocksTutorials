@@ -5,5 +5,3 @@
 
 ## 免费Shadowsocks账号
 - [2018-03-11最新免费Shadowsocks账号](https://github.com/Biulink/ShadowsocksTutorials/blob/master/2018-03-11%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
-
-- [2018-03-11最新免费Shadowsocks账号](https://github.com/Biulink/ShadowsocksTutorials/blob/master/2018-03-11%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
