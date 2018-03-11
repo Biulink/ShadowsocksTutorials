@@ -1,2 +1,2 @@
-# ShadowsocksTutorials
-Shadowsocks搭建教程
+# Shadowsocks免费账号
+
