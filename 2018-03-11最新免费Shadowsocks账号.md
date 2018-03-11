@@ -8,79 +8,79 @@
 
 地址：us2bylee.biulink.xyz
 
-端口：20254
+端口：20197
 
-密码：biulink_813873
+密码：biulink_476927
 
 加密方式：aes-256-cfb
 
 流量：25GB
 
-过期时间：2018-03-12 06:45:09
+过期时间：2018-03-12 07:45:08
 
-![二维码](qrcode/42aed86d-d8bf-428a-8033-540c2af7dd2a.png)
+![二维码](qrcode/bb2eadef-8a51-4727-b3bf-e81582c0ee73.png)
 
 ## 免费Shadowsocks账号2
 
 地址：sg1.biulink.xyz
 
-端口：20254
+端口：20197
 
-密码：biulink_813873
+密码：biulink_476927
 
 加密方式：aes-256-cfb
 
 流量：25GB
 
-过期时间：2018-03-12 06:45:09
+过期时间：2018-03-12 07:45:08
 
-![二维码](qrcode/d6a26b5c-9b19-4dfa-b85b-40cae013bed5.png)
+![二维码](qrcode/40836bbb-57d0-4b41-9e5b-fbe134db5d97.png)
 
 ## 免费Shadowsocks账号3
 
 地址：hk1.biulink.xyz
 
-端口：20254
+端口：20197
 
-密码：biulink_813873
+密码：biulink_476927
 
 加密方式：aes-256-cfb
 
 流量：25GB
 
-过期时间：2018-03-12 06:45:09
+过期时间：2018-03-12 07:45:08
 
-![二维码](qrcode/5ae66784-5526-4819-9e90-9a06881e5e48.png)
+![二维码](qrcode/25a392af-c7dc-4cf6-8ce4-d90a0e033de7.png)
 
 ## 免费Shadowsocks账号4
 
 地址：jp1.biulink.xyz
 
-端口：20254
+端口：20197
 
-密码：biulink_813873
+密码：biulink_476927
 
 加密方式：aes-256-cfb
 
 流量：25GB
 
-过期时间：2018-03-12 06:45:09
+过期时间：2018-03-12 07:45:08
 
-![二维码](qrcode/9e9fda10-eea3-4917-8f3a-e1d28298f29a.png)
+![二维码](qrcode/ec9cc39c-b418-4953-a951-bd3d5911d295.png)
 
 ## 免费Shadowsocks账号5
 
 地址：us1.biulink.xyz
 
-端口：20254
+端口：20197
 
-密码：biulink_813873
+密码：biulink_476927
 
 加密方式：aes-256-cfb
 
 流量：25GB
 
-过期时间：2018-03-12 06:45:09
+过期时间：2018-03-12 07:45:08
 
-![二维码](qrcode/ba559d49-40ee-4fb0-9b78-b9e65a524a06.png)
+![二维码](qrcode/2549b200-b87d-4ecb-a9a6-ee02a3a06bd5.png)
 
