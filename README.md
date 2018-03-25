@@ -14,6 +14,7 @@
   优势4: 比直接买SS账号B格略高 🙂
 
   费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK
+  
   ![stats](https://915.im/qM2Ni9)
 
 ## 免费Shadowsocks账号
