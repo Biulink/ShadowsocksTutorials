@@ -20,7 +20,8 @@
 
   优势4: 比直接买SS账号B格略高 🙂
 
-  费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK  ## 免费Shadowsocks账号1
+  费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK  
+## 免费Shadowsocks账号1
 
 地址：us2bylee.biulink.xyz
 
