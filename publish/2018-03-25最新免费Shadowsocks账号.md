@@ -87,5 +87,5 @@
 ![二维码](../qrcode/8db9213b-30a5-480b-a9fa-63e14e310ff5.png)
 
 
-![stats](https://raw.githubusercontent.com/Biulink/ShadowsocksTutorials/master/bandwagon/publish.png)
+![stats](https://915.im/TojkeA)
 
