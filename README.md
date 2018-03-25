@@ -2,7 +2,10 @@
 
 ## Shadowsocks教程
 - [教您自己动手搭建超实惠的Shadowsocks服务器 - 搬瓦工篇](https://github.com/Biulink/ShadowsocksTutorials/blob/master/%E6%95%99%E6%82%A8%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E6%90%AD%E5%BB%BA%E8%B6%85%E5%AE%9E%E6%83%A0%E7%9A%84Shadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%20-%20%E6%90%AC%E7%93%A6%E5%B7%A5%E7%AF%87.md)
-
+  
+  
+  ![免费Shadowsocks账号](./bandwagon/WechatIMG23_small.jpeg)
+  
   本图文教程详细介绍了如何搭建Shadowsocks服务器。自己搭建Shadowsocks服务器有如下优势：
 
   优势1: 独享一台Shadowsocks服务器，不与其他用户共享资源。
@@ -16,8 +19,6 @@
   费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK  
 
 ## 免费Shadowsocks账号
-- [2018-03-25最新**免费Shadowsocks账号**](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-03-25%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
-
 - [2018-03-25最新**免费Shadowsocks账号**](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-03-25%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
 - [2018-03-24最新免费Shadowsocks账号](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-03-24%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
