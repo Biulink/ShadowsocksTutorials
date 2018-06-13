@@ -80,6 +80,14 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 
 ## Q&A
 ### 没有看到Shadowsocks Server选项怎么办？
-答：一般情况是
-情况下由于
-情况下
+答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，点击控制面板里面的Root shell - advanced，然后把下面这段命令复制粘贴进去，然后点击Execute执行即可。443是端口，xxxxxxxx是密码，aes-256-cfb是加密方式，都可以自行修改。
+```
+yum --enablerepo=epel -y install python-pip
+pip install shadowsocks
+echo '443' > /root/.my-shadowsocks-port
+echo 'xxxxxxxx' > /root/.my-shadowsocks-password
+echo 'aes-256-cfb' > /root/.my-shadowsocks-encryption
+
+/usr/bin/ssserver -s ::0 -p `cat /root/.my-shadowsocks-port` -k `cat /root/.my-shadowsocks-password` -m `cat /root/.my-shadowsocks-encryption` --user nobody --workers 2 -d start
+printf "\n/usr/bin/ssserver -s ::0 -p \`cat /root/.my-shadowsocks-port\` -k \`cat /root/.my-shadowsocks-password\` -m \`cat /root/.my-shadowsocks-encryption\` --user nobody --workers 2 -d start\n\n" >> /etc/rc.d/rc.local
+```
