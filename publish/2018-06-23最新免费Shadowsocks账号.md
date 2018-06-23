@@ -21,63 +21,63 @@
 
 地址：sg1.biulink.club
 
-端口：20276
+端口：20284
 
-密码：https_biulink_club_234882
+密码：https_biulink_club_624868
 
 加密方式：aes-256-cfb
 
 流量：0GB/25GB
 
-过期时间：2018-06-24 00:00:15
+过期时间：2018-06-24 20:45:25
 
-![免费Shadowsocks账号](../qrcode/5532a1b0-5fda-44a1-8377-ea5ce037a0d3.png)
+![免费Shadowsocks账号](../qrcode/81e80ac6-1b43-4a50-9ff2-c9c8e4c41116.png)
 
 ## 免费Shadowsocks账号2
 
 地址：hk1.biulink.club
 
-端口：20276
+端口：20284
 
-密码：https_biulink_club_234882
+密码：https_biulink_club_624868
 
 加密方式：aes-256-cfb
 
 流量：0GB/25GB
 
-过期时间：2018-06-24 00:00:15
+过期时间：2018-06-24 20:45:25
 
-![免费Shadowsocks账号](../qrcode/21745d6e-d77e-40d3-a83d-b87e1543fdd8.png)
+![免费Shadowsocks账号](../qrcode/65e7ce3a-6779-43d4-a49a-acfd7009d032.png)
 
 ## 免费Shadowsocks账号3
 
 地址：jp1.biulink.club
 
-端口：20276
+端口：20284
 
-密码：https_biulink_club_234882
+密码：https_biulink_club_624868
 
 加密方式：aes-256-cfb
 
 流量：0GB/25GB
 
-过期时间：2018-06-24 00:00:15
+过期时间：2018-06-24 20:45:25
 
-![免费Shadowsocks账号](../qrcode/0d450966-3ff9-4372-9eaa-b408792c6af3.png)
+![免费Shadowsocks账号](../qrcode/4de26e3d-b4a1-4e0e-a62e-13aaf56de244.png)
 
 ## 免费Shadowsocks账号4
 
 地址：us1.biulink.club
 
-端口：20276
+端口：20284
 
-密码：https_biulink_club_234882
+密码：https_biulink_club_624868
 
 加密方式：aes-256-cfb
 
 流量：0GB/25GB
 
-过期时间：2018-06-24 00:00:15
+过期时间：2018-06-24 20:45:25
 
-![免费Shadowsocks账号](../qrcode/2e0bd01c-af00-4869-abb0-54a5509d7108.png)
+![免费Shadowsocks账号](../qrcode/08ac3c5e-d094-4fe8-bac3-68084e268918.png)
 
