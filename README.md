@@ -15,6 +15,8 @@
   费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK  
 
 ## 免费Shadowsocks账号
+- [2018-07-02最新**免费Shadowsocks账号**](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-07-02%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
+
 - [2018-07-01最新**免费Shadowsocks账号**](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-07-01%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
 - [2018-06-30最新**免费Shadowsocks账号**](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-06-30%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
