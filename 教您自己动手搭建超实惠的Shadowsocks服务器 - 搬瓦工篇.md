@@ -92,3 +92,5 @@ echo 'aes-256-cfb' > /root/.my-shadowsocks-encryption
 printf "\n/usr/bin/ssserver -s ::0 -p \`cat /root/.my-shadowsocks-port\` -k \`cat /root/.my-shadowsocks-password\` -m \`cat /root/.my-shadowsocks-encryption\` --user nobody --workers 2 -d start\n\n" >> /etc/rc.d/rc.local
 
 ```
+### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
+答：执行一遍就可以了，直接下载Shadowsocks，使用Main Controls页面的IP address+443（接口），以及上面设置的密码即可使用。
