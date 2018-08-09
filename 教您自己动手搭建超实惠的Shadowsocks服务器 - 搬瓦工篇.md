@@ -93,12 +93,10 @@ echo 'aes-256-cfb' > /root/.my-shadowsocks-encryption
 printf "\n/usr/bin/ssserver -s ::0 -p \`cat /root/.my-shadowsocks-port\` -k \`cat /root/.my-shadowsocks-password\` -m \`cat /root/.my-shadowsocks-encryption\` --user nobody --workers 2 -d start\n\n" >> /etc/rc.d/rc.local
 
 MY_IP=$(curl http://myip.dnsomatic.com)
-printf "Shadowsocks服务器已经安装成功，账号如下："
-printf "服务器：$MY_IP"
-printf "端口：`cat /root/.my-shadowsocks-port`"
-printf "密码：`cat /root/.my-shadowsocks-password`"
-printf "加密方式：`cat /root/.my-shadowsocks-encryption`"
-
+printf "Shadowsocks服务器已经安装成功，账号如下：\n服务器：$MY_IP \n端口：`cat /root/.my-shadowsocks-port` \n密码：`cat /root/.my-shadowsocks-password` \n加密方式：`cat /root/.my-shadowsocks-encryption` \n"
 ```
+执行成功后会看到如下的账号信息，就可以直接使用了。
+![图片](/bandwagon/WechatIMG280.jpeg)
+
 ### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
 答：不需要Shadowsocks Server选项了，直接下载Shadowsocks，并使用上面显示的账号信息就可以连接了。
