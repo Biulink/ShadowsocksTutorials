@@ -80,7 +80,8 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 
 ## Q&A
 ### 没有看到Shadowsocks Server选项怎么办？
-答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。脚本中443是端口，xxxxxxxx是密码，aes-256-cfb是加密方式，都可以自行修改。
+答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，把其中xxxxxxxx改成自己的密码，然后点击Execute执行即可。
+执行成功后会显示Shadowsocks安装成功的提示和账号信息，就可以直接使用了。
 ```
 yum --enablerepo=epel -y install python-pip
 pip install shadowsocks
@@ -91,6 +92,13 @@ echo 'aes-256-cfb' > /root/.my-shadowsocks-encryption
 /usr/bin/ssserver -s ::0 -p `cat /root/.my-shadowsocks-port` -k `cat /root/.my-shadowsocks-password` -m `cat /root/.my-shadowsocks-encryption` --user nobody --workers 2 -d start
 printf "\n/usr/bin/ssserver -s ::0 -p \`cat /root/.my-shadowsocks-port\` -k \`cat /root/.my-shadowsocks-password\` -m \`cat /root/.my-shadowsocks-encryption\` --user nobody --workers 2 -d start\n\n" >> /etc/rc.d/rc.local
 
+MY_IP=$(curl http://myip.dnsomatic.com)
+printf "Shadowsocks服务器已经安装成功，账号如下："
+printf "服务器：$MY_IP"
+printf "端口：`cat /root/.my-shadowsocks-port`"
+printf "密码：`cat /root/.my-shadowsocks-password`"
+printf "加密方式：`cat /root/.my-shadowsocks-encryption`"
+
 ```
 ### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
-答：执行一遍就可以了，直接下载Shadowsocks，使用Main Controls页面的IP address+443（接口），以及上面设置的密码即可使用。
+答：不需要Shadowsocks Server选项了，直接下载Shadowsocks，并使用上面显示的账号信息就可以连接了。
