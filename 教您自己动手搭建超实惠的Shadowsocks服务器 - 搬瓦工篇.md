@@ -94,6 +94,7 @@ printf "\n/usr/bin/ssserver -s ::0 -p \`cat /root/.my-shadowsocks-port\` -k \`ca
 
 MY_IP=$(curl http://myip.dnsomatic.com)
 printf "Shadowsocks服务器已经安装成功，账号如下：\n服务器：$MY_IP \n端口：`cat /root/.my-shadowsocks-port` \n密码：`cat /root/.my-shadowsocks-password` \n加密方式：`cat /root/.my-shadowsocks-encryption` \n"
+
 ```
 执行成功后会看到如下的账号信息，就可以直接使用了。
 ![图片](/bandwagon/WechatIMG280.jpeg)
