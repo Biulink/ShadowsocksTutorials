@@ -65,7 +65,7 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 2.进入控制面板首页，记录下服务器IP地址，最后连接会使用该服务器IP。
 ![图片](/bandwagon/WechatIMG33.jpeg)
 
-3.点击Shadowsocks Service选项
+3.点击Shadowsocks Service选项。有可能没有看到Shadowsocks Service选项，这个时候可以访问隐藏链接：https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks 就可以看到这个选项了。
 ![图片](/bandwagon/WechatIMG34.jpeg)
 
 4.点击Install Shadowsocks Server，等待几分钟，完成安装。
