@@ -1,4 +1,4 @@
-# 教您自己动手搭建超实惠的Shadowsocks服务器 - 搬瓦工篇
+# 基于搬瓦工搭建Shadowsocks服务器的视频教程，CN2线路，BBR加速，一键切IP，16人民币/月
 
 本图文教程详细介绍了如何搭建Shadowsocks服务器。自己搭建Shadowsocks服务器有如下优势：
 
