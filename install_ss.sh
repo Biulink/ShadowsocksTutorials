@@ -1,6 +1,6 @@
 yum --enablerepo=epel -y install python-pip
 pip install shadowsocks
-echo '443' > /root/.my-shadowsocks-port
+echo '10443' > /root/.my-shadowsocks-port
 openssl rand -base64 16 > /root/.my-shadowsocks-password
 echo 'aes-256-cfb' > /root/.my-shadowsocks-encryption
 
