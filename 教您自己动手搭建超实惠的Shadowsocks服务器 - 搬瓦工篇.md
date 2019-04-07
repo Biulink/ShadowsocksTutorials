@@ -39,10 +39,10 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 注：CN2代表到中国大陆有专线连接，网速会比较有保障。
 
 3.点击对应套餐后面Order Now按钮
-![图片](/bandwagon/WechatIMG24.jpeg)
+![图片](/bandwagon/WechatIMG447.png)
 
 4.直接点击Add To Cart按钮。
-![图片](/bandwagon/WechatIMG25.jpeg)
+![图片](/bandwagon/WechatIMG448.png)
 
 5.输入优惠码：BWH26FXH3HIQ，点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
