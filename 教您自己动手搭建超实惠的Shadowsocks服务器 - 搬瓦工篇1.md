@@ -30,20 +30,19 @@
 
 2.选择合适的套餐
 
-推荐选择第一个或者第二个套餐，这两个套餐对比如下。
+推荐选择第一个套餐，详情如下。
 
 |套餐名称|地理位置|是否是CN2线路|硬盘大小|内存大小|每月流量|价格|
 -------| -------|------|------|------|------|------|
-SPECIAL 10G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|10GB|512MB|500GB|29.99美元/年|
-SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
+SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年|
 
 注：CN2代表到中国大陆有专线连接，网速会比较有保障。
 
 3.点击对应套餐后面Order Now按钮
-![图片](/bandwagon/WechatIMG24.jpeg)
+![图片](/bandwagon/WechatIMG447.png)
 
 4.直接点击Add To Cart按钮。
-![图片](/bandwagon/WechatIMG25.jpeg)
+![图片](/bandwagon/WechatIMG448.png)
 
 5.输入优惠码：BWH26FXH3HIQ，点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
