@@ -44,7 +44,7 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 4.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG448.png)
 
-5.输入优惠码：BWH26FXH3HIQ，点击Validate Code，然后点击Checkout，进入结账页面。
+5.输入优惠码：BWH3HYATVBJW，点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
 
 6.确认好信息后，选择支付宝付款，勾选同意协议的选项，点击Complete Order，提交订单。
